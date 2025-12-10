@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200" alt="Juntos en el Cuidado" />
+  <img src="https://ibb.co/MDCcBm9R" alt="Juntos en el Cuidado" />
   <h1>Juntos en el Cuidado</h1>
   <p><i>Gestión de información médica de emergencia para adultos mayores</i></p>
 </div>
