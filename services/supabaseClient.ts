@@ -2,8 +2,8 @@ import { createClient } from '@supabase/supabase-js';
 
 // NOTA: En un entorno real, estas deben ser variables de entorno.
 // Usamos un placeholder con formato de URL válido para evitar que la aplicación falle al inicio si no hay configuración.
-const supabaseUrl = process.env.SUPABASE_URL ;
-const supabaseKey = process.env.SUPABASE_KEY ;
+const supabaseUrl = process.env.SUPABASE_URL || 'https://tbbusvvomwzrtvfhbklw.supabase.co';
+const supabaseKey = process.env.SUPABASE_KEY || 'sb_publishable_FF2eap0nkXcO-75Bn1JRTQ_1j-B_eiR';
 
 export const supabase = createClient(supabaseUrl, supabaseKey);
 
