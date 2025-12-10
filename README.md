@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="/assets/page.png" alt="Juntos en el Cuidado" />
   <h1>Juntos en el Cuidado</h1>
+  <img src="/assets/page.png" alt="Juntos en el Cuidado" />
   <p><i>Gestión de información médica de emergencia para adultos mayores</i></p>
 </div>
 
